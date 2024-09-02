@@ -1,0 +1,1434 @@
+{
+    "items": [
+        {
+            "ticker": "GTCUSDT",
+            "variacao": -2.9259896729776247,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:05",
+            "num_operacoes": 2,
+            "compra": 0.581,
+            "atual": 0.564,
+            "acumulado": 103.23748820990652
+        },
+        {
+            "ticker": "SANDUSDT",
+            "variacao": -2.688172043010739,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 2,
+            "compra": 0.2418,
+            "atual": 0.2353,
+            "acumulado": 98.5729877555121
+        },
+        {
+            "ticker": "STORJUSDT",
+            "variacao": -2.571511123952619,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 0.3461,
+            "atual": 0.3372,
+            "acumulado": 98.46796202022844
+        },
+        {
+            "ticker": "ONGUSDT",
+            "variacao": -2.5256222547584306,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 1,
+            "compra": 0.2732,
+            "atual": 0.2663,
+            "acumulado": 96.9285714285714
+        },
+        {
+            "ticker": "DASHUSDT",
+            "variacao": -2.4442538593482,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 22:50",
+            "num_operacoes": 0,
+            "compra": 23.32,
+            "atual": 22.75,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "JASMYUSDT",
+            "variacao": -2.4128686327077653,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:10",
+            "num_operacoes": 2,
+            "compra": 0.01865,
+            "atual": 0.0182,
+            "acumulado": 98.2481892805408
+        },
+        {
+            "ticker": "BICOUSDT",
+            "variacao": -2.4085224641037573,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:10",
+            "num_operacoes": 2,
+            "compra": 0.2159,
+            "atual": 0.2107,
+            "acumulado": 98.40721201463428
+        },
+        {
+            "ticker": "ATOMUSDT",
+            "variacao": -2.4069028156221584,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 2,
+            "compra": 4.404,
+            "atual": 4.298,
+            "acumulado": 98.30951572014352
+        },
+        {
+            "ticker": "KAVAUSDT",
+            "variacao": -2.3913775682047778,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 18:40",
+            "num_operacoes": 1,
+            "compra": 0.2969,
+            "atual": 0.2898,
+            "acumulado": 96.98360655737706
+        },
+        {
+            "ticker": "ZRXUSDT",
+            "variacao": -2.2662889518413443,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 1,
+            "compra": 0.2824,
+            "atual": 0.276,
+            "acumulado": 96.96760854583046
+        },
+        {
+            "ticker": "LSKUSDT",
+            "variacao": -2.219321148825071,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 23:00",
+            "num_operacoes": 0,
+            "compra": 0.766,
+            "atual": 0.749,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "ZENUSDT",
+            "variacao": -2.216066481994461,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 1,
+            "compra": 7.22,
+            "atual": 7.06,
+            "acumulado": 101.50684931506852
+        },
+        {
+            "ticker": "SUSHIUSDT",
+            "variacao": -2.2058823529411797,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 2,
+            "compra": 0.544,
+            "atual": 0.532,
+            "acumulado": 98.55741355682058
+        },
+        {
+            "ticker": "ENJUSDT",
+            "variacao": -2.1497405485544796,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 2,
+            "compra": 0.1349,
+            "atual": 0.132,
+            "acumulado": 98.5615847388514
+        },
+        {
+            "ticker": "BCHUSDT",
+            "variacao": -2.1243361449547082,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 23:00",
+            "num_operacoes": 0,
+            "compra": 320.1,
+            "atual": 313.3,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "YFIUSDT",
+            "variacao": -2.1168169345354815,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 23:25",
+            "num_operacoes": 0,
+            "compra": 5102.0,
+            "atual": 4994.0,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "LTCUSDT",
+            "variacao": -2.0935960591132896,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 21:00",
+            "num_operacoes": 0,
+            "compra": 64.96,
+            "atual": 63.6,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "ILVUSDT",
+            "variacao": -2.058987200890361,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 3,
+            "compra": 35.94,
+            "atual": 35.2,
+            "acumulado": 100.06231310591151
+        },
+        {
+            "ticker": "THETAUSDT",
+            "variacao": -2.044293015332199,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:05",
+            "num_operacoes": 2,
+            "compra": 1.174,
+            "atual": 1.15,
+            "acumulado": 98.33333333333331
+        },
+        {
+            "ticker": "XRPUSDT",
+            "variacao": -2.000000000000013,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 23:10",
+            "num_operacoes": 0,
+            "compra": 0.56,
+            "atual": 0.5488,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "SPELLUSDT",
+            "variacao": -1.9755955839628192,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:15",
+            "num_operacoes": 2,
+            "compra": 0.0005163,
+            "atual": 0.0005061,
+            "acumulado": 98.35067909838072
+        },
+        {
+            "ticker": "1INCHUSDT",
+            "variacao": -1.9180470793373927,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 2,
+            "compra": 0.2294,
+            "atual": 0.225,
+            "acumulado": 98.4955363116744
+        },
+        {
+            "ticker": "LRCUSDT",
+            "variacao": -1.9102990033222578,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 2,
+            "compra": 0.1204,
+            "atual": 0.1181,
+            "acumulado": 98.48206281637673
+        },
+        {
+            "ticker": "CRVUSDT",
+            "variacao": -1.8429782528566196,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 18:25",
+            "num_operacoes": 2,
+            "compra": 0.2713,
+            "atual": 0.2663,
+            "acumulado": 98.4291483231038
+        },
+        {
+            "ticker": "AVAXUSDT",
+            "variacao": -1.8340210912425436,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 3,
+            "compra": 21.81,
+            "atual": 21.41,
+            "acumulado": 99.853539070775
+        },
+        {
+            "ticker": "ETHUSDT",
+            "variacao": -1.7920395039415005,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 23:35",
+            "num_operacoes": 0,
+            "compra": 2478.74,
+            "atual": 2434.32,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "RVNUSDT",
+            "variacao": -1.7902813299232823,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:10",
+            "num_operacoes": 2,
+            "compra": 0.01564,
+            "atual": 0.01536,
+            "acumulado": 98.40463830520558
+        },
+        {
+            "ticker": "DGBUSDT",
+            "variacao": -1.729559748427667,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 22:50",
+            "num_operacoes": 0,
+            "compra": 0.00636,
+            "atual": 0.00625,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "MASKUSDT",
+            "variacao": -1.6966067864271461,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 2.004,
+            "atual": 1.97,
+            "acumulado": 98.08947219105984
+        },
+        {
+            "ticker": "CELOUSDT",
+            "variacao": -1.6110471806674354,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 2,
+            "compra": 0.4345,
+            "atual": 0.4275,
+            "acumulado": 98.29022324358104
+        },
+        {
+            "ticker": "ICPUSDT",
+            "variacao": -1.5892588025756993,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 3,
+            "compra": 7.299,
+            "atual": 7.183,
+            "acumulado": 100.1315167599239
+        },
+        {
+            "ticker": "ADXUSDT",
+            "variacao": -1.5613910574875822,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 21:00",
+            "num_operacoes": 0,
+            "compra": 0.1409,
+            "atual": 0.1387,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "GLMUSDT",
+            "variacao": -1.5526802218114755,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:15",
+            "num_operacoes": 2,
+            "compra": 0.2705,
+            "atual": 0.2663,
+            "acumulado": 98.4687893035331
+        },
+        {
+            "ticker": "LINKUSDT",
+            "variacao": -1.5223596574690745,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 1,
+            "compra": 10.51,
+            "atual": 10.35,
+            "acumulado": 96.89213893967091
+        },
+        {
+            "ticker": "OPUSDT",
+            "variacao": -1.3788098693758966,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 1.378,
+            "atual": 1.359,
+            "acumulado": 98.64668605816632
+        },
+        {
+            "ticker": "PONDUSDT",
+            "variacao": -1.3750954927425507,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:21",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 2,
+            "compra": 0.01309,
+            "atual": 0.01291,
+            "acumulado": 100.5077965548208
+        },
+        {
+            "ticker": "STMXUSDT",
+            "variacao": -1.3382402141184357,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:21",
+            "ts_operacao": "01/09 19:40",
+            "num_operacoes": 3,
+            "compra": 0.005978,
+            "atual": 0.005898,
+            "acumulado": 95.44814362355838
+        },
+        {
+            "ticker": "MATICUSDT",
+            "variacao": -1.3267813267813122,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 1,
+            "compra": 0.407,
+            "atual": 0.4016,
+            "acumulado": 96.95078031212483
+        },
+        {
+            "ticker": "SOLUSDT",
+            "variacao": -1.323945817708727,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 1,
+            "compra": 130.67,
+            "atual": 128.94,
+            "acumulado": 96.99903910119004
+        },
+        {
+            "ticker": "FILUSDT",
+            "variacao": -1.3208100968594039,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 3,
+            "compra": 3.407,
+            "atual": 3.362,
+            "acumulado": 99.94239467793126
+        },
+        {
+            "ticker": "COMPUSDT",
+            "variacao": -1.2990025516121606,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 18:25",
+            "num_operacoes": 2,
+            "compra": 43.11,
+            "atual": 42.55,
+            "acumulado": 98.29807950805044
+        },
+        {
+            "ticker": "TUSDT",
+            "variacao": -1.288167938931295,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:15",
+            "num_operacoes": 2,
+            "compra": 0.02096,
+            "atual": 0.02069,
+            "acumulado": 98.19771200934385
+        },
+        {
+            "ticker": "APTUSDT",
+            "variacao": -1.2779552715655007,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 3,
+            "compra": 6.26,
+            "atual": 6.18,
+            "acumulado": 100.23960048707691
+        },
+        {
+            "ticker": "VETUSDT",
+            "variacao": -1.2316437707247774,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 1,
+            "compra": 0.02111,
+            "atual": 0.02085,
+            "acumulado": 96.69724770642205
+        },
+        {
+            "ticker": "IOTAUSDT",
+            "variacao": -1.2305168170631653,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 1,
+            "compra": 0.1219,
+            "atual": 0.1204,
+            "acumulado": 101.6273393002441
+        },
+        {
+            "ticker": "XLMUSDT",
+            "variacao": -1.2008733624454204,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 23:00",
+            "num_operacoes": 0,
+            "compra": 0.0916,
+            "atual": 0.0905,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "ASTRUSDT",
+            "variacao": -1.1666666666666603,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 2,
+            "compra": 0.06,
+            "atual": 0.0593,
+            "acumulado": 98.40935810647582
+        },
+        {
+            "ticker": "EOSUSDT",
+            "variacao": -1.1262724713017036,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:15",
+            "num_operacoes": 1,
+            "compra": 0.4617,
+            "atual": 0.4565,
+            "acumulado": 96.9620783574272
+        },
+        {
+            "ticker": "XECUSDT",
+            "variacao": -1.1126095751854415,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 2.966e-05,
+            "atual": 2.933e-05,
+            "acumulado": 98.80152160310968
+        },
+        {
+            "ticker": "LOKAUSDT",
+            "variacao": -1.0948905109489093,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 9,
+            "compra": 0.2192,
+            "atual": 0.2168,
+            "acumulado": 111.34781789638076
+        },
+        {
+            "ticker": "POLYXUSDT",
+            "variacao": -1.0695187165775444,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 2,
+            "compra": 0.2057,
+            "atual": 0.2035,
+            "acumulado": 98.28269983554536
+        },
+        {
+            "ticker": "BTCUSDT",
+            "variacao": -1.0308988778566563,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 02:25",
+            "num_operacoes": 0,
+            "compra": 58030.91,
+            "atual": 57432.67,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "CHZUSDT",
+            "variacao": -0.9842519685039353,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 1,
+            "compra": 0.0508,
+            "atual": 0.0503,
+            "acumulado": 96.78638941398866
+        },
+        {
+            "ticker": "BANDUSDT",
+            "variacao": -0.9803921568627416,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:21",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 1,
+            "compra": 1.02,
+            "atual": 1.01,
+            "acumulado": 96.96969696969695
+        },
+        {
+            "ticker": "ONTUSDT",
+            "variacao": -0.881612090680095,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:20",
+            "num_operacoes": 2,
+            "compra": 0.1588,
+            "atual": 0.1574,
+            "acumulado": 98.5485077792948
+        },
+        {
+            "ticker": "CLVUSDT",
+            "variacao": -0.8538667967796898,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 2,
+            "compra": 0.04099,
+            "atual": 0.04064,
+            "acumulado": 98.42273665095044
+        },
+        {
+            "ticker": "ALGOUSDT",
+            "variacao": -0.6700167504187671,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:30",
+            "num_operacoes": 2,
+            "compra": 0.1194,
+            "atual": 0.1186,
+            "acumulado": 36.17029954969654
+        },
+        {
+            "ticker": "SNXUSDT",
+            "variacao": -0.6289308176100628,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 1.272,
+            "atual": 1.264,
+            "acumulado": 98.51522635662528
+        },
+        {
+            "ticker": "KDAUSDT",
+            "variacao": -0.591715976331364,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:05",
+            "num_operacoes": 3,
+            "compra": 0.507,
+            "atual": 0.504,
+            "acumulado": 99.83134619300372
+        },
+        {
+            "ticker": "OGNUSDT",
+            "variacao": -0.5841121495327117,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 3,
+            "compra": 0.0856,
+            "atual": 0.0851,
+            "acumulado": 105.10936772002
+        },
+        {
+            "ticker": "TFUELUSDT",
+            "variacao": -0.5272727272727207,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:40",
+            "num_operacoes": 1,
+            "compra": 0.055,
+            "atual": 0.05471,
+            "acumulado": 96.98966868542928
+        },
+        {
+            "ticker": "UNIUSDT",
+            "variacao": -0.4957507082152923,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 5.648,
+            "atual": 5.62,
+            "acumulado": 98.41002340189604
+        },
+        {
+            "ticker": "OXTUSDT",
+            "variacao": -0.4451038575667532,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 0.0674,
+            "atual": 0.0671,
+            "acumulado": 98.85618839152012
+        },
+        {
+            "ticker": "ALPINEUSDT",
+            "variacao": -0.42844901456727813,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 2,
+            "compra": 1.167,
+            "atual": 1.162,
+            "acumulado": 103.25983742098664
+        },
+        {
+            "ticker": "HBARUSDT",
+            "variacao": -0.41407867494824835,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:40",
+            "num_operacoes": 1,
+            "compra": 0.0483,
+            "atual": 0.0481,
+            "acumulado": 97.0
+        },
+        {
+            "ticker": "CTSIUSDT",
+            "variacao": -0.32653061224489077,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 0.1225,
+            "atual": 0.1221,
+            "acumulado": 103.23499957522289
+        },
+        {
+            "ticker": "TRXUSDT",
+            "variacao": -0.319284802043418,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "31/08 23:30",
+            "num_operacoes": 0,
+            "compra": 0.1566,
+            "atual": 0.1561,
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "XTZUSDT",
+            "variacao": -0.31645569620253333,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:40",
+            "num_operacoes": 1,
+            "compra": 0.632,
+            "atual": 0.63,
+            "acumulado": 96.96969696969695
+        },
+        {
+            "ticker": "QTUMUSDT",
+            "variacao": -0.27573529411766273,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:25",
+            "num_operacoes": 1,
+            "compra": 2.176,
+            "atual": 2.17,
+            "acumulado": 96.8845985081176
+        },
+        {
+            "ticker": "LTOUSDT",
+            "variacao": -0.09652509652510188,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:50",
+            "num_operacoes": 1,
+            "compra": 0.1036,
+            "atual": 0.1035,
+            "acumulado": 101.7126546146527
+        },
+        {
+            "ticker": "MANAUSDT",
+            "variacao": -0.07877116975187892,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 1,
+            "compra": 0.2539,
+            "atual": 0.2537,
+            "acumulado": 96.943719716735
+        },
+        {
+            "ticker": "EGLDUSDT",
+            "variacao": 0.10944910616563774,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 27.41,
+            "atual": 27.44,
+            "acumulado": 99.29175318233295
+        },
+        {
+            "ticker": "AXSUSDT",
+            "variacao": 0.27094152178821496,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 4.429,
+            "atual": 4.441,
+            "acumulado": 98.50649408179176
+        },
+        {
+            "ticker": "STGUSDT",
+            "variacao": 0.5046863734679219,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:55",
+            "num_operacoes": 1,
+            "compra": 0.2774,
+            "atual": 0.2788,
+            "acumulado": 96.8836565096953
+        },
+        {
+            "ticker": "SKLUSDT",
+            "variacao": 0.5749070003381762,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:35",
+            "num_operacoes": 2,
+            "compra": 0.02957,
+            "atual": 0.02974,
+            "acumulado": 98.8708730477614
+        },
+        {
+            "ticker": "VOXELUSDT",
+            "variacao": 0.5844155844155985,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 21:00",
+            "num_operacoes": 3,
+            "compra": 0.154,
+            "atual": 0.1549,
+            "acumulado": 94.96121019908092
+        },
+        {
+            "ticker": "ROSEUSDT",
+            "variacao": 0.6294106427617852,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:10",
+            "num_operacoes": 1,
+            "compra": 0.05243,
+            "atual": 0.05276,
+            "acumulado": 96.6824644549763
+        },
+        {
+            "ticker": "CELRUSDT",
+            "variacao": 0.6679389312977069,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:00",
+            "num_operacoes": 1,
+            "compra": 0.01048,
+            "atual": 0.01055,
+            "acumulado": 96.84400360685302
+        },
+        {
+            "ticker": "DARUSDT",
+            "variacao": 0.7399018497546095,
+            "status": "comprado",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:15",
+            "num_operacoes": 1,
+            "compra": 0.13245,
+            "atual": 0.13343,
+            "acumulado": 96.97077690662866
+        },
+        {
+            "ticker": "REEFUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "AAVEUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:14",
+            "num_operacoes": 2,
+            "acumulado": 93.845477040208
+        },
+        {
+            "ticker": "SUIUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:57",
+            "num_operacoes": 3,
+            "acumulado": 100.2105075820585
+        },
+        {
+            "ticker": "TLMUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:06",
+            "num_operacoes": 3,
+            "acumulado": 95.27466270509812
+        },
+        {
+            "ticker": "FLOWUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:44",
+            "num_operacoes": 1,
+            "acumulado": 96.8978102189781
+        },
+        {
+            "ticker": "LPTUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:49",
+            "num_operacoes": 3,
+            "acumulado": 94.98102309146468
+        },
+        {
+            "ticker": "ONEUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:00",
+            "num_operacoes": 2,
+            "acumulado": 93.74336933624616
+        },
+        {
+            "ticker": "GALAUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:03",
+            "num_operacoes": 4,
+            "acumulado": 97.18001334341078
+        },
+        {
+            "ticker": "PORTOUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:20",
+            "num_operacoes": 1,
+            "acumulado": 96.60516605166052
+        },
+        {
+            "ticker": "NMRUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 19:38",
+            "num_operacoes": 2,
+            "acumulado": 93.67829591622328
+        },
+        {
+            "ticker": "SANTOSUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:19",
+            "ts_operacao": "01/09 20:03",
+            "num_operacoes": 2,
+            "acumulado": 100.13761039606698
+        },
+        {
+            "ticker": "API3USDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:46",
+            "num_operacoes": 1,
+            "acumulado": 96.8231046931408
+        },
+        {
+            "ticker": "ARBUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:06",
+            "num_operacoes": 1,
+            "acumulado": 96.6547901821061
+        },
+        {
+            "ticker": "VTHOUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:41",
+            "num_operacoes": 2,
+            "acumulado": 93.91583090705242
+        },
+        {
+            "ticker": "ENSUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:12",
+            "num_operacoes": 3,
+            "acumulado": 95.45717517081798
+        },
+        {
+            "ticker": "ZECUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:57",
+            "num_operacoes": 3,
+            "acumulado": 95.46359433259887
+        },
+        {
+            "ticker": "IOSTUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:00",
+            "num_operacoes": 1,
+            "acumulado": 96.28865979381442
+        },
+        {
+            "ticker": "SLPUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:06",
+            "num_operacoes": 4,
+            "acumulado": 97.1564736889369
+        },
+        {
+            "ticker": "DOGEUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:00",
+            "num_operacoes": 2,
+            "acumulado": 93.88395143155472
+        },
+        {
+            "ticker": "BALUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:18",
+            "num_operacoes": 1,
+            "acumulado": 96.39541234298198
+        },
+        {
+            "ticker": "APEUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:03",
+            "num_operacoes": 3,
+            "acumulado": 95.32876930287604
+        },
+        {
+            "ticker": "AXLUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:03",
+            "num_operacoes": 3,
+            "acumulado": 95.61334243833564
+        },
+        {
+            "ticker": "KNCUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:41",
+            "num_operacoes": 1,
+            "acumulado": 96.93237276318848
+        },
+        {
+            "ticker": "KSMUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:15",
+            "num_operacoes": 3,
+            "acumulado": 95.35126925653122
+        },
+        {
+            "ticker": "ZILUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:47",
+            "num_operacoes": 1,
+            "acumulado": 96.99248120300751
+        },
+        {
+            "ticker": "ALICEUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:06",
+            "num_operacoes": 3,
+            "acumulado": 95.0235639487923
+        },
+        {
+            "ticker": "SYSUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:44",
+            "num_operacoes": 2,
+            "acumulado": 93.59472942725256
+        },
+        {
+            "ticker": "RLCUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:00",
+            "num_operacoes": 1,
+            "acumulado": 96.95945945945948
+        },
+        {
+            "ticker": "WAXPUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:47",
+            "num_operacoes": 1,
+            "acumulado": 96.67562122229684
+        },
+        {
+            "ticker": "LOOMUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "RENUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:44",
+            "num_operacoes": 3,
+            "acumulado": 96.7778209619518
+        },
+        {
+            "ticker": "PROMUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 21:09",
+            "num_operacoes": 1,
+            "acumulado": 96.8377201287635
+        },
+        {
+            "ticker": "ADAUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:36",
+            "num_operacoes": 1,
+            "acumulado": 96.45991808074898
+        },
+        {
+            "ticker": "VITEUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:12",
+            "num_operacoes": 8,
+            "acumulado": 108.7253163609064
+        },
+        {
+            "ticker": "BATUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:58",
+            "num_operacoes": 1,
+            "acumulado": 96.9790382244143
+        },
+        {
+            "ticker": "GRTUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:12",
+            "num_operacoes": 3,
+            "acumulado": 95.70609763843504
+        },
+        {
+            "ticker": "BNTUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:39",
+            "num_operacoes": 1,
+            "acumulado": 95.25494276795006
+        },
+        {
+            "ticker": "ETCUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:36",
+            "num_operacoes": 1,
+            "acumulado": 96.862960924601
+        },
+        {
+            "ticker": "ACHUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:31",
+            "num_operacoes": 1,
+            "acumulado": 96.7502850627138
+        },
+        {
+            "ticker": "LAZIOUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:47",
+            "num_operacoes": 1,
+            "acumulado": 96.50690495532086
+        },
+        {
+            "ticker": "COTIUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:39",
+            "num_operacoes": 3,
+            "acumulado": 95.40898395767452
+        },
+        {
+            "ticker": "REQUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:15",
+            "num_operacoes": 1,
+            "acumulado": 96.91542288557211
+        },
+        {
+            "ticker": "BNBUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:36",
+            "num_operacoes": 1,
+            "acumulado": 96.98578199052132
+        },
+        {
+            "ticker": "BLURUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:50",
+            "num_operacoes": 3,
+            "acumulado": 95.4504127578466
+        },
+        {
+            "ticker": "FLOKIUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:56",
+            "num_operacoes": 3,
+            "acumulado": 94.66143196924044
+        },
+        {
+            "ticker": "RADUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:47",
+            "num_operacoes": 3,
+            "acumulado": 99.54529603176668
+        },
+        {
+            "ticker": "PAXGUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "acumulado": 100.0
+        },
+        {
+            "ticker": "TUSDUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 11:55",
+            "num_operacoes": 2,
+            "acumulado": 113.94646920536992
+        },
+        {
+            "ticker": "ANKRUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:56",
+            "num_operacoes": 1,
+            "acumulado": 96.88552188552188
+        },
+        {
+            "ticker": "XNOUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:31",
+            "num_operacoes": 1,
+            "acumulado": 96.46924829157174
+        },
+        {
+            "ticker": "FORTHUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:07",
+            "num_operacoes": 1,
+            "acumulado": 96.7470760233918
+        },
+        {
+            "ticker": "IMXUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:55",
+            "num_operacoes": 4,
+            "acumulado": 97.7219760022658
+        },
+        {
+            "ticker": "FLUXUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:01",
+            "num_operacoes": 1,
+            "acumulado": 96.93576900412492
+        },
+        {
+            "ticker": "LDOUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:56",
+            "num_operacoes": 3,
+            "acumulado": 99.89625221337396
+        },
+        {
+            "ticker": "DIAUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:19",
+            "num_operacoes": 1,
+            "acumulado": 96.67341625687013
+        },
+        {
+            "ticker": "FTMUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:58",
+            "num_operacoes": 3,
+            "acumulado": 95.2690962061951
+        },
+        {
+            "ticker": "ICXUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:37",
+            "num_operacoes": 1,
+            "acumulado": 96.43146796431468
+        },
+        {
+            "ticker": "DOTUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:40",
+            "num_operacoes": 1,
+            "acumulado": 96.74507008790688
+        },
+        {
+            "ticker": "MKRUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 20:16",
+            "num_operacoes": 1,
+            "acumulado": 96.9434832756632
+        },
+        {
+            "ticker": "QNTUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:48",
+            "num_operacoes": 1,
+            "acumulado": 96.96
+        },
+        {
+            "ticker": "RAREUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:48",
+            "num_operacoes": 2,
+            "acumulado": 98.50438707187078
+        },
+        {
+            "ticker": "FETUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:20",
+            "ts_operacao": "01/09 19:45",
+            "num_operacoes": 5,
+            "acumulado": 99.09799893030412
+        },
+        {
+            "ticker": "AUDIOUSDT",
+            "variacao": "",
+            "status": "vendido",
+            "ult_atualizacao": "01/09 21:21",
+            "ts_operacao": "01/09 19:37",
+            "num_operacoes": 4,
+            "acumulado": 95.97082530672192
+        }
+    ]
+}
